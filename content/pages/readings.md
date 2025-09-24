@@ -16,7 +16,7 @@ Required Textbook
 
 Hendrickson, Chris, and Tung Au. _Project Management for Construction_. Upper Saddle River, NJ: Prentice Hall, 1989. ISBN: 9780137312665.
 
-[This textbook is available online](http://pmbook.ce.cmu.edu/) for free viewing.
+{{% resource_link "9e17c601-dd8f-4d7c-addd-7ee08b4fcab2" "This textbook is available online" %}} for free viewing.
 
 Recommended Readings for Project Finance
 ----------------------------------------
@@ -43,7 +43,7 @@ Ward, William A., Barry J. Deren, and Emmanuel H. D'Silva. _The Economics of Pro
 Recommended Readings for Organization
 -------------------------------------
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262122368) Miller, Roger, and Donald Lessard. [_The Strategic Management of Large Engineering Projects_](https://mitpress.mit.edu/9780262122368). Cambridge, MA: MIT Press, 2001. ISBN: 9780262122368.
+{{% resource_link "4a7b1d50-b218-4681-a987-36b751563088" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Miller, Roger, and Donald Lessard. {{% resource_link "4a7b1d50-b218-4681-a987-36b751563088" "_The Strategic Management of Large Engineering Projects_" %}}. Cambridge, MA: MIT Press, 2001. ISBN: 9780262122368.
 
 Morris, Peter W. G. _The Management of Projects_. London, UK: Thomas Telford Books, 1994. ISBN: 9780727716934.
 
