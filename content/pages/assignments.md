@@ -41,7 +41,7 @@ After reading the three documents, what advice would you give to the government 
 
 "Can The Centrists Hold?" _The Economist_, February 5, 2009.
 
-Doshi, Viren, Gary Schulman, and Daniel Gabaldon. "{{% resource_link "84cea749-19fb-4f03-b63c-f9f1bb585dc8" "Lights! Water! Motion!" %}}." _Strategy + Business_ 46 (2007).
+Doshi, Viren, Gary Schulman, and Daniel Gabaldon. "[Lights! Water! Motion!](http://www.strategy-business.com/press/article/07104?gko=a8c38-1876-23502998)." _Strategy + Business_ 46 (2007).
 
 
 {{< tdclose >}}
@@ -65,9 +65,9 @@ Your memo should be similar in length to the papers you prepared for Paper 1 (i.
 {{< tdopen >}}
 
 
-Cooper, Michael. "{{% resource_link "66283ff0-4e71-494e-9844-90b384361e9a" "Big Ideas, Grand Plans, Modest Budgets" %}}." _The New York Times_, February 14, 2009.
+Cooper, Michael. "[Big Ideas, Grand Plans, Modest Budgets](http://www.nytimes.com/2009/02/15/weekinreview/15cooper.html?_r=4&scp=7&sq=infrastructure&st=cse)." _The New York Times_, February 14, 2009.
 
-Poole, Robert. "Infrastructure Report Card: A Caution." {{% resource_link "5a370f6e-2386-49fb-a498-fb027649e30e" "_Surface Transportation Innovations_" %}} 64 (2009).
+Poole, Robert. "Infrastructure Report Card: A Caution." [_Surface Transportation Innovations_](http://reason.org/news/show/surface-transportation-innovat-63) 64 (2009).
 
 
 {{< tdclose >}}
@@ -89,7 +89,7 @@ Turn in a short paper (roughly 5-10 pages) with regard to your analysis and comp
 
 {{< tdclose >}}
 {{< tdopen >}}
-AECOM Consult Team. "Case Studies of Transportation Public-Private Partnerships in the United States." Federal Highway Administration Report. July 7, 2007. ({{% resource_link "5f9f2f15-912a-4a5f-8b02-f907c553c6b4" "PDF ‑ 7.1MB" %}})
+AECOM Consult Team. "Case Studies of Transportation Public-Private Partnerships in the United States." Federal Highway Administration Report. July 7, 2007. ([PDF ‑ 7.1MB](https://www.fhwa.dot.gov/ipd/pdfs/p3/us_ppp_case_studies_final_report_7-7-07.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 
